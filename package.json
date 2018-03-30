@@ -1,0 +1,19 @@
+{
+  "name": "ttb-node-currentwifi",
+  "version": "0.0.1",
+  "description": "Get the current connected wifi.",
+  "node-red": {
+    "nodes": {
+      "currentwifi": "currentwifi.js"
+    }
+  },
+  "dependencies": {
+    "ttbd-wifi-util": "TheThingBox/ttbd-wifi-util#376aff9"
+  },
+  "keywords": [
+    "node-red",
+    "currentwifi"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}
