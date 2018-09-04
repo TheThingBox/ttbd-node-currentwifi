@@ -8,7 +8,7 @@
     }
   },
   "dependencies": {
-    "ttbd-wifi-util": "TheThingBox/ttbd-wifi-util#376aff9"
+    "ttbd-wifi-util": "TheThingBox/ttbd-wifi-util#8b44afa"
   },
   "keywords": [
     "node-red",
